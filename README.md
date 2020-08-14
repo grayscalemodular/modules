@@ -1,2 +1,1 @@
-# modules
-Technical documentation and source files for synthesizer modules developed by Grayscale
+Technical documentation and source files for synthesizer modules developed by [Grayscale](https://grayscale.info/)
